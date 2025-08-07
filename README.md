@@ -23,7 +23,7 @@ The project follows a standard Django application structure:
 
 ```bash
 git clone https://github.com/zaqax/BirFikrimvar.git
-cd [repository-folder]/python-version
+cd /BirFikrimvar
 ```
 
 ### 2. Create a virtual environment and install dependencies
