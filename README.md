@@ -22,7 +22,7 @@ The project follows a standard Django application structure:
 ### 1. Clone the repository
 
 ```bash
-git clone [repository-url]
+git clone https://github.com/zaqax/BirFikrimvar.git
 cd [repository-folder]/python-version
 ```
 
